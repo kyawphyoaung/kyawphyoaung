@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react to be a full stack developer.
 - 💞️ Talk to me about airplane, silicon valley & startups.
 - 👯 We can connect to play some games of Chess ♟
-- 📫 You can get in touch with me by email at [kyawphyoaung.me@gmail.com](mailto:kyawphyoaung.me@gmail.com),[Whatsapp](https://api.whatsapp.com/send?phone=6584098094), and LinkedIn](https://www.linkedin.com/in/kyawphyoaung/)
+- 📫 You can get in touch with me by email at [kyawphyoaung.me@gmail.com](mailto:kyawphyoaung.me@gmail.com), [Whatsapp](https://api.whatsapp.com/send?phone=6584098094), and [LinkedIn](https://www.linkedin.com/in/kyawphyoaung/)
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
