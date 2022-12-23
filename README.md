@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyawphyoaung
+- 👋 Hi, I’m Kyaw Phyo Aung ( Harry )
 - 👀 I’m interested in creating catchy websites and lastest technologies.
 - 🌱 I’m currently learning react to be a full stack developer.
 - 💞️ Talk to me about airplane, silicon valley & startups.
